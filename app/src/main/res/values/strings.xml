@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">"BookListing "</string>
+    <string name="hint">"Search by book title,or author name"</string>
+    <string name="noBookFound">Sorry..No books were found</string>
+    <string name="noConnection">Sorry...No connection available</string>
+</resources>
